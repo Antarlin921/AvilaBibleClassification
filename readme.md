@@ -3,3 +3,6 @@ The palaeographic analysis of the  manuscript has  individuated the presence of 
 Each pattern contains 10 features and corresponds to a group of 4 consecutive rows.
 
 The prediction task consists in associating each pattern to one of the 12 copyists (labeled as: A, B, C, D, E, F, G, H, I, W, X, Y).
+
+
+Used logistic regression,
